@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>AppName</key>
+		<string>SystHist</string>
+		<key>Version</key>
+		<string>1.10</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/systhist110.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>LockRattler</string>
+		<key>Version</key>
+		<string>4.20</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/lockrattler420.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Revisionist</string>
+		<key>Version</key>
+		<string>1.2</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2018/08/revisionist12.zip</string>
+	</dict>
+</array>
+</plist>
