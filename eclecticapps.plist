@@ -26,5 +26,37 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/revisionist13.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>T2M2</string>
+		<key>Version</key>
+		<string>1.5</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/t2m215.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>xattred</string>
+		<key>Version</key>
+		<string>1.0</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/xattred10.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Podofyllin</string>
+		<key>Version</key>
+		<string>1.0b16</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/04/podofyllin10b16.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>DelightEd</string>
+		<key>Version</key>
+		<string>2.0b1</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/04/delighted20b1.zip</string>
+	</dict>
 </array>
 </plist>
