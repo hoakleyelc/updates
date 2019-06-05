@@ -46,17 +46,17 @@
 		<key>AppName</key>
 		<string>Podofyllin</string>
 		<key>Version</key>
-		<string>1.0b16</string>
+		<string>1.0b17</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2019/04/podofyllin10b16.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/podofyllin10b17.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
 		<string>DelightEd</string>
 		<key>Version</key>
-		<string>2.0b1</string>
+		<string>2.0b2</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2019/04/delighted20b1.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/delighted20b2.zip</string>
 	</dict>
 </array>
 </plist>
