@@ -62,25 +62,25 @@
 		<key>AppName</key>
 		<string>Dystextia</string>
 		<key>Version</key>
-		<string>1.5</string>
+		<string>1.6</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2018/11/dystextia15.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/dystextia16.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
 		<string>Nalaprop</string>
 		<key>Version</key>
-		<string>1.0b9</string>
+		<string>1.0b10</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2018/11/nalaprop10b9.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/nalaprop10b10.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
 		<string>Apfelstrudel</string>
 		<key>Version</key>
-		<string>1.2</string>
+		<string>1.3</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2018/11/apfelstrudel.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/apfelstrudel13.zip</string>
 	</dict>
 </array>
 </plist>
