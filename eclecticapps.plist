@@ -58,5 +58,29 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/delighted20b2.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Dystextia</string>
+		<key>Version</key>
+		<string>1.5</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2018/11/dystextia15.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Nalaprop</string>
+		<key>Version</key>
+		<string>1.0b9</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2018/11/nalaprop10b9.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Apfelstrudel</string>
+		<key>Version</key>
+		<string>1.2</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2018/11/apfelstrudel.zip</string>
+	</dict>
 </array>
 </plist>
