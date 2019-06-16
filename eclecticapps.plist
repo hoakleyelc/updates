@@ -90,5 +90,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/consolation31.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>32-bitCheck</string>
+		<key>Version</key>
+		<string>1.7</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/32bitcheck17.zip</string>
+	</dict>
 </array>
 </plist>
