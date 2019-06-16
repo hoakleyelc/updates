@@ -86,17 +86,25 @@
 		<key>AppName</key>
 		<string>Consolation</string>
 		<key>Version</key>
-		<string>3.1</string>
+		<string>3.2</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/consolation31.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/consolation32.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
 		<string>32-bitCheck</string>
 		<key>Version</key>
-		<string>1.7</string>
+		<string>1.8</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/32bitcheck17.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/32bitcheck18.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Cirrus</string>
+		<key>Version</key>
+		<string>1.5</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/cirrus15.zip</string>
 	</dict>
 </array>
 </plist>
