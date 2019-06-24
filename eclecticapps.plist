@@ -6,9 +6,9 @@
 		<key>AppName</key>
 		<string>SystHist</string>
 		<key>Version</key>
-		<string>1.11</string>
+		<string>1.12</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/systhist111.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/systhist112.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
@@ -105,6 +105,14 @@
 		<string>1.5</string>
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/cirrus15.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Signet</string>
+		<key>Version</key>
+		<string>1.1</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/signet11.zip</string>
 	</dict>
 </array>
 </plist>
