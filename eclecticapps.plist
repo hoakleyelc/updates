@@ -114,5 +114,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/signet11.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>PermissionScanner</string>
+		<key>Version</key>
+		<string>1.4</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/permscan14.zip</string>
+	</dict>
 </array>
 </plist>
