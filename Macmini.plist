@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>MacModel</key>
+		<string>Macmini8,1</string>
+		<key>EFIversion</key>
+		<string>220.260.170.0.0</string>
+		<key>iBridge</key>
+		<string>16.16.5125.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Macmini4,1</string>
+		<key>EFIversion</key>
+		<string>75.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Macmini5,1</string>
+		<key>EFIversion</key>
+		<string>133.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Macmini5,2</string>
+		<key>EFIversion</key>
+		<string>133.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Macmini5,3</string>
+		<key>EFIversion</key>
+		<string>133.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Macmini6,1</string>
+		<key>EFIversion</key>
+		<string>278.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Macmini6,2</string>
+		<key>EFIversion</key>
+		<string>278.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Macmini7,1</string>
+		<key>EFIversion</key>
+		<string>242.0.0.0.0</string>
+	</dict>
+</array>
+</plist>

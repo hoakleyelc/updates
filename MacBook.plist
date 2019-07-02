@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBook6,1</string>
+		<key>EFIversion</key>
+		<string>208.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBook7,1</string>
+		<key>EFIversion</key>
+		<string>67.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBook8,1</string>
+		<key>EFIversion</key>
+		<string>181.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBook9,1</string>
+		<key>EFIversion</key>
+		<string>181.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBook10,1</string>
+		<key>EFIversion</key>
+		<string>175.0.0.0.0</string>
+	</dict>
+</array>
+</plist>
