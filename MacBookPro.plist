@@ -32,6 +32,7 @@
 		<key>EFIversion</key>
 		<string>98.0.0.0.0</string>
 	</dict>
+	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro6,2</string>
 		<key>EFIversion</key>
