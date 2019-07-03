@@ -122,5 +122,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/permscan14.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>EFIcienC</string>
+		<key>Version</key>
+		<string>1.0b1</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/07/eficienc10b1.zip</string>
+	</dict>
 </array>
 </plist>
