@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>XProtect</key>
+	<string>2103</string>
+	<key>Gatekeeper</key>
+	<string>171</string>
+	<key>MRT</key>
+	<string>1.42</string>
+	<key>TCC</key>
+	<string>17.0</string>
+	<key>KEXT14</key>
+	<string>14.5.1</string>
+	<key>KEXT13</key>
+	<string>14.5.1</string>
+	<key>KEXT12</key>
+	<string>14.5.1</string>
+	<key>KEXT11</key>
+	<string>14.5.1</string>
+</dict>
+</plist>
