@@ -4,12 +4,16 @@
 <dict>
 	<key>XProtect</key>
 	<string>2103</string>
+	<key>XProtect15</key>
+	<string>2104</string>
 	<key>Gatekeeper</key>
 	<string>172</string>
 	<key>MRT</key>
 	<string>1.46</string>
 	<key>TCC</key>
 	<string>17.0</string>
+	<key>TCC15</key>
+	<string>150.18</string>
 	<key>KEXT14</key>
 	<string>14.5.1</string>
 	<key>KEXT13</key>
