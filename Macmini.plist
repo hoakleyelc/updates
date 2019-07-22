@@ -6,51 +6,51 @@
 		<key>MacModel</key>
 		<string>Macmini8,1</string>
 		<key>EFIversion</key>
-		<string>220.260.170.0.0</string>
+		<string>220.270.99.0.0</string>
 		<key>iBridge</key>
-		<string>16.16.5125.0.0</string>
+		<string>16.16.6568.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini4,1</string>
 		<key>EFIversion</key>
-		<string>75.0.0.0.0</string>
+		<string>76.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini5,1</string>
 		<key>EFIversion</key>
-		<string>133.0.0.0.0</string>
+		<string>135.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini5,2</string>
 		<key>EFIversion</key>
-		<string>133.0.0.0.0</string>
+		<string>135.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini5,3</string>
 		<key>EFIversion</key>
-		<string>133.0.0.0.0</string>
+		<string>135.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini6,1</string>
 		<key>EFIversion</key>
-		<string>278.0.0.0.0</string>
+		<string>280.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini6,2</string>
 		<key>EFIversion</key>
-		<string>278.0.0.0.0</string>
+		<string>280.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini7,1</string>
 		<key>EFIversion</key>
-		<string>242.0.0.0.0</string>
+		<string>244.0.0.0.0</string>
 	</dict>
 </array>
 </plist>
