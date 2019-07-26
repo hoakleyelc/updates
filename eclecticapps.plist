@@ -138,5 +138,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/07/silentknight11.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Taccy</string>
+		<key>Version</key>
+		<string>1.0</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/taccy10.zip</string>
+	</dict>
 </array>
 </plist>
