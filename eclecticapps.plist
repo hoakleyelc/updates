@@ -146,5 +146,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/08/taccy12.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Precize</string>
+		<key>Version</key>
+		<string>1.8</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2019/05/precize18.zip</string>
+	</dict>
 </array>
 </plist>
