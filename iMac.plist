@@ -116,5 +116,17 @@
 		<key>EFIversion</key>
 		<string>175.0.0.0.0</string>
 	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>iMac19,1</string>
+		<key>EFIversion</key>
+		<string>1037.40.118.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>iMac19,2</string>
+		<key>EFIversion</key>
+		<string>1037.40.118.0.0</string>
+	</dict>
 </array>
 </plist>
