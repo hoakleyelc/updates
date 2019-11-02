@@ -9,6 +9,10 @@
 		<string>1037.40.124.0.0</string>
 		<key>iBridge</key>
 		<string>17.16.11081.0.0</string>
+		<key>EFIversion15</key>
+		<string>1037.40.124.0.0</string>
+		<key>iBridge15</key>
+		<string>17.16.11081.0.0</string>
 	</dict>
 </array>
 </plist>

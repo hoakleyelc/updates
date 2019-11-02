@@ -4,14 +4,6 @@
 <array>
 	<dict>
 		<key>MacModel</key>
-		<string>MacBookAir8,1</string>
-		<key>EFIversion</key>
-		<string>220.270.99.0.0</string>
-		<key>iBridge</key>
-		<string>17.16.11081.0.0</string>
-	</dict>
-	<dict>
-		<key>MacModel</key>
 		<string>MacBookAir3,1</string>
 		<key>EFIversion</key>
 		<string>110.0.0.0.0</string>
@@ -39,36 +31,72 @@
 		<string>MacBookAir5,1</string>
 		<key>EFIversion</key>
 		<string>259.0.0.0.0</string>
+		<key>EFIversion15</key>
+		<string>260.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir5,2</string>
 		<key>EFIversion</key>
 		<string>259.0.0.0.0</string>
+		<key>EFIversion15</key>
+		<string>260.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir6,1</string>
 		<key>EFIversion</key>
 		<string>117.0.0.0.0</string>
+		<key>EFIversion15</key>
+		<string>118.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir6,2</string>
 		<key>EFIversion</key>
 		<string>117.0.0.0.0</string>
+		<key>EFIversion15</key>
+		<string>118.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,1</string>
 		<key>EFIversion</key>
 		<string>188.0.0.0.0</string>
+		<key>EFIversion15</key>
+		<string>190.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,2</string>
 		<key>EFIversion</key>
 		<string>188.0.0.0.0</string>
+		<key>EFIversion15</key>
+		<string>190.0.0.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBookAir8,1</string>
+		<key>EFIversion</key>
+		<string>1037.40.124.0.0</string>
+		<key>iBridge</key>
+		<string>17.16.11081.0.0</string>
+		<key>EFIversion15</key>
+		<string>1037.40.124.0.0</string>
+		<key>iBridge15</key>
+		<string>17.16.11081.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBookAir8,2</string>
+		<key>EFIversion</key>
+		<string>1037.40.124.0.0</string>
+		<key>iBridge</key>
+		<string>17.16.11081.0.0</string>
+		<key>EFIversion15</key>
+		<string>1037.40.124.0.0</string>
+		<key>iBridge15</key>
+		<string>17.16.11081.0.0</string>
 	</dict>
 </array>
 </plist>

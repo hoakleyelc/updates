@@ -19,6 +19,8 @@
 		<string>MacPro6,1</string>
 		<key>EFIversion</key>
 		<string>132.0.0.0.0</string>
+		<key>EFIversion15</key>
+		<string>133.0.0.0.0</string>
 	</dict>
 </array>
 </plist>
