@@ -147,7 +147,7 @@
 		<string>iMac19,1</string>
 		<key>EFIversion</key>
 		<string>220.270.93.0.0</string>
-		<key>EFIversion</key>
+		<key>EFIversion15</key>
 		<string>1037.40.118.0.0</string>
 	</dict>
 	<dict>
@@ -155,7 +155,7 @@
 		<string>iMac19,2</string>
 		<key>EFIversion</key>
 		<string>220.270.93.0.0</string>
-		<key>EFIversion</key>
+		<key>EFIversion15</key>
 		<string>1037.40.118.0.0</string>
 	</dict>
 </array>
