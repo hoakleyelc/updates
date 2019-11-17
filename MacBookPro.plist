@@ -52,6 +52,18 @@
 	</dict>
 	<dict>
 		<key>MacModel</key>
+		<string>MacBookPro16,1</string>
+		<key>EFIversion</key>
+		<string>1037.40.127.0.0</string>
+		<key>iBridge</key>
+		<string>17.16.11583.0.0</string>
+		<key>EFIversion15</key>
+		<string>1037.40.127.0.0</string>
+		<key>iBridge15</key>
+		<string>17.16.11583.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
 		<string>MacBookPro6,1</string>
 		<key>EFIversion</key>
 		<string>99.0.0.0.0</string>
