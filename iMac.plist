@@ -98,65 +98,65 @@
 		<key>MacModel</key>
 		<string>iMac16,1</string>
 		<key>EFIversion</key>
-		<string>229.0.0.0.0</string>
+		<string>232.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>231.0.0.0.0</string>
+		<string>232.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac16,2</string>
 		<key>EFIversion</key>
-		<string>229.0.0.0.0</string>
+		<string>232.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>231.0.0.0.0</string>
+		<string>232.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac17,1</string>
 		<key>EFIversion</key>
-		<string>170.0.0.0.0</string>
+		<string>174.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>173.0.0.0.0</string>
+		<string>174.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,1</string>
 		<key>EFIversion</key>
-		<string>175.0.0.0.0</string>
+		<string>179.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>178.0.0.0.0</string>
+		<string>179.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,2</string>
 		<key>EFIversion</key>
-		<string>175.0.0.0.0</string>
+		<string>179.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>178.0.0.0.0</string>
+		<string>179.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,3</string>
 		<key>EFIversion</key>
-		<string>175.0.0.0.0</string>
+		<string>179.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>178.0.0.0.0</string>
+		<string>179.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac19,1</string>
 		<key>EFIversion</key>
-		<string>220.270.93.0.0</string>
+		<string>1037.60.50.0.0</string>
 		<key>EFIversion15</key>
-		<string>1037.40.118.0.0</string>
+		<string>1037.60.50.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac19,2</string>
 		<key>EFIversion</key>
-		<string>220.270.93.0.0</string>
+		<string>1037.60.50.0.0</string>
 		<key>EFIversion15</key>
-		<string>1037.40.118.0.0</string>
+		<string>1037.60.50.0.0</string>
 	</dict>
 </array>
 </plist>
