@@ -62,17 +62,17 @@
 		<key>MacModel</key>
 		<string>MacBookAir7,1</string>
 		<key>EFIversion</key>
-		<string>188.0.0.0.0</string>
+		<string>191.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>190.0.0.0.0</string>
+		<string>191.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,2</string>
 		<key>EFIversion</key>
-		<string>188.0.0.0.0</string>
+		<string>191.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>190.0.0.0.0</string>
+		<string>191.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
