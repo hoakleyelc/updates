@@ -6,13 +6,13 @@
 		<key>MacModel</key>
 		<string>Macmini8,1</string>
 		<key>EFIversion</key>
-		<string>1037.60.58.0.0</string>
+		<string>1037.80.53.0.0</string>
 		<key>iBridge</key>
-		<string>17.16.12551.0.0</string>
+		<string>17.16.13050.0.0</string>
 		<key>EFIversion15</key>
-		<string>1037.60.58.0.0</string>
+		<string>1037.80.53.0.0</string>
 		<key>iBridge15</key>
-		<string>17.16.12551.0.0</string>
+		<string>17.16.13050.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
@@ -42,25 +42,25 @@
 		<key>MacModel</key>
 		<string>Macmini6,1</string>
 		<key>EFIversion</key>
-		<string>280.0.0.0.0</string>
+		<string>282.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>281.0.0.0.0</string>
+		<string>282.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini6,2</string>
 		<key>EFIversion</key>
-		<string>280.0.0.0.0</string>
+		<string>282.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>281.0.0.0.0</string>
+		<string>282.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini7,1</string>
 		<key>EFIversion</key>
-		<string>244.0.0.0.0</string>
+		<string>246.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>245.0.0.0.0</string>
+		<string>246.0.0.0.0</string>
 	</dict>
 </array>
 </plist>
