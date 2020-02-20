@@ -54,9 +54,9 @@
 		<key>AppName</key>
 		<string>DelightEd</string>
 		<key>Version</key>
-		<string>2.0b2</string>
+		<string>2.0b4</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/delighted20b2.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/02/delighted20b4.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
@@ -126,9 +126,9 @@
 		<key>AppName</key>
 		<string>PermissionScanner</string>
 		<key>Version</key>
-		<string>1.4</string>
+		<string>1.5</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2019/06/permscan14.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/02/permscan15.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
