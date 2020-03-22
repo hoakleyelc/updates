@@ -162,5 +162,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2019/08/precize19.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Dintch</string>
+		<key>Version</key>
+		<string>1.0b1</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/03/dintch10b1.zip</string>
+	</dict>
 </array>
 </plist>
