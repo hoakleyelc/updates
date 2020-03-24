@@ -30,73 +30,85 @@
 		<key>MacModel</key>
 		<string>MacBookAir5,1</string>
 		<key>EFIversion</key>
-		<string>261.0.0.0.0</string>
+		<string>262.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>261.0.0.0.0</string>
+		<string>262.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir5,2</string>
 		<key>EFIversion</key>
-		<string>261.0.0.0.0</string>
+		<string>262.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>261.0.0.0.0</string>
+		<string>262.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir6,1</string>
 		<key>EFIversion</key>
-		<string>119.0.0.0.0</string>
+		<string>120.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>119.0.0.0.0</string>
+		<string>120.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir6,2</string>
 		<key>EFIversion</key>
-		<string>119.0.0.0.0</string>
+		<string>120.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>119.0.0.0.0</string>
+		<string>120.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,1</string>
 		<key>EFIversion</key>
-		<string>192.0.0.0.0</string>
+		<string>193.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>192.0.0.0.0</string>
+		<string>193.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,2</string>
 		<key>EFIversion</key>
-		<string>192.0.0.0.0</string>
+		<string>193.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>192.0.0.0.0</string>
+		<string>193.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir8,1</string>
 		<key>EFIversion</key>
-		<string>1037.80.53.0.0</string>
+		<string>1037.100.359.0.0</string>
 		<key>iBridge</key>
-		<string>17.16.13050.0.0</string>
+		<string>17.16.14263.0.0</string>
 		<key>EFIversion15</key>
-		<string>1037.80.53.0.0</string>
+		<string>1037.100.359.0.0</string>
 		<key>iBridge15</key>
-		<string>17.16.13050.0.0</string>
+		<string>17.16.14263.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir8,2</string>
 		<key>EFIversion</key>
-		<string>1037.80.53.0.0</string>
+		<string>1037.100.359.0.0</string>
 		<key>iBridge</key>
-		<string>17.16.13050.0.0</string>
+		<string>17.16.14263.0.0</string>
 		<key>EFIversion15</key>
-		<string>1037.80.53.0.0</string>
+		<string>1037.100.359.0.0</string>
 		<key>iBridge15</key>
-		<string>17.16.13050.0.0</string>
+		<string>17.16.14263.0.0</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBookAir9,1</string>
+		<key>EFIversion</key>
+		<string>1037.100.359.0.0</string>
+		<key>iBridge</key>
+		<string>17.16.14263.0.0</string>
+		<key>EFIversion15</key>
+		<string>1037.100.359.0.0</string>
+		<key>iBridge15</key>
+		<string>17.16.14263.0.0</string>
 	</dict>
 </array>
 </plist>
