@@ -166,17 +166,17 @@
 		<key>AppName</key>
 		<string>Dintch</string>
 		<key>Version</key>
-		<string>1.1</string>
+		<string>1.2</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2020/04/dintch11.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/04/dintch12.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
 		<string>Fintch</string>
 		<key>Version</key>
-		<string>1.0</string>
+		<string>1.1</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2020/04/fintch1.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/04/fintch11.zip</string>
 	</dict>
 </array>
 </plist>
