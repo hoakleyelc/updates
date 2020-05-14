@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>XProtect</key>
-	<string>2120</string>
+	<string>2121</string>
 	<key>XProtect15</key>
-	<string>2120</string>
+	<string>2121</string>
 	<key>Gatekeeper</key>
 	<string>181</string>
 	<key>GatekeepDE</key>
 	<string>8.0</string>
 	<key>MRT</key>
-	<string>1.59</string>
+	<string>1.60</string>
 	<key>TCC</key>
 	<string>140.18</string>
 	<key>TCC15</key>
