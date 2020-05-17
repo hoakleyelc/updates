@@ -178,5 +178,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2020/04/fintch11.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Spundle</string>
+		<key>Version</key>
+		<string>1.0</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/05/spundle1.zip</string>
+	</dict>
 </array>
 </plist>
