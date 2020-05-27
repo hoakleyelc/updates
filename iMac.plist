@@ -42,105 +42,105 @@
 		<key>MacModel</key>
 		<string>iMac13,1</string>
 		<key>EFIversion</key>
-		<string>290.0.0.0.0</string>
+		<string>291.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>290.0.0.0.0</string>
+		<string>291.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac13,2</string>
 		<key>EFIversion</key>
-		<string>290.0.0.0.0</string>
+		<string>291.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>290.0.0.0.0</string>
+		<string>291.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac14,1</string>
 		<key>EFIversion</key>
-		<string>142.0.0.0.0</string>
+		<string>143.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>142.0.0.0.0</string>
+		<string>143.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac14,2</string>
 		<key>EFIversion</key>
-		<string>142.0.0.0.0</string>
+		<string>143.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>142.0.0.0.0</string>
+		<string>143.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac14,3</string>
 		<key>EFIversion</key>
-		<string>142.0.0.0.0</string>
+		<string>143.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>142.0.0.0.0</string>
+		<string>143.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac14,4</string>
 		<key>EFIversion</key>
-		<string>202.0.0.0.0</string>
+		<string>203.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>202.0.0.0.0</string>
+		<string>203.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac15,1</string>
 		<key>EFIversion</key>
-		<string>233.0.0.0.0</string>
+		<string>234.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>233.0.0.0.0</string>
+		<string>234.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac16,1</string>
 		<key>EFIversion</key>
-		<string>233.0.0.0.0</string>
+		<string>234.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>233.0.0.0.0</string>
+		<string>234.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac16,2</string>
 		<key>EFIversion</key>
-		<string>233.0.0.0.0</string>
+		<string>234.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>233.0.0.0.0</string>
+		<string>234.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac17,1</string>
 		<key>EFIversion</key>
-		<string>176.0.0.0.0</string>
+		<string>178.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>176.0.0.0.0</string>
+		<string>178.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,1</string>
 		<key>EFIversion</key>
-		<string>181.0.0.0.0</string>
+		<string>183.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>181.0.0.0.0</string>
+		<string>183.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,2</string>
 		<key>EFIversion</key>
-		<string>181.0.0.0.0</string>
+		<string>183.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>181.0.0.0.0</string>
+		<string>183.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,3</string>
 		<key>EFIversion</key>
-		<string>181.0.0.0.0</string>
+		<string>183.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>181.0.0.0.0</string>
+		<string>183.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
