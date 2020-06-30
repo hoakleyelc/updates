@@ -8,7 +8,11 @@
 	<string>2124</string>
 	<key>Gatekeeper</key>
 	<string>181</string>
+	<key>Gatekeeper16</key>
+	<string>94</string>
 	<key>GatekeepDE</key>
+	<string>8.0</string>
+	<key>Gatekeep16DE</key>
 	<string>8.0</string>
 	<key>MRT</key>
 	<string>1.63</string>
@@ -16,6 +20,10 @@
 	<string>140.18</string>
 	<key>TCC15</key>
 	<string>150.19</string>
+	<key>TCC16</key>
+	<string>150.19</string>
+	<key>KEXT16</key>
+	<string>16.0.1</string>
 	<key>KEXT15</key>
 	<string>15.1.1</string>
 	<key>KEXT14</key>
