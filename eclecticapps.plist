@@ -194,5 +194,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2020/05/metamer1.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Mints</string>
+		<key>Version</key>
+		<string>1.0b1</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/07/mints1b01.zip</string>
+	</dict>
 </array>
 </plist>
