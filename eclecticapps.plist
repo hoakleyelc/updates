@@ -132,14 +132,6 @@
 	</dict>
 	<dict>
 		<key>AppName</key>
-		<string>EFIcienC</string>
-		<key>Version</key>
-		<string>1.0b2</string>
-		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2019/07/eficienc10b2.zip</string>
-	</dict>
-	<dict>
-		<key>AppName</key>
 		<string>SilentKnight</string>
 		<key>Version</key>
 		<string>1.10</string>
@@ -198,9 +190,9 @@
 		<key>AppName</key>
 		<string>Mints</string>
 		<key>Version</key>
-		<string>1.0b5</string>
+		<string>1.0b6</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2020/07/mints1b05.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/09/mints10b6.zip</string>
 	</dict>
 </array>
 </plist>
