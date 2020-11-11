@@ -30,9 +30,9 @@
 		<key>AppName</key>
 		<string>T2M2</string>
 		<key>Version</key>
-		<string>1.15</string>
+		<string>1.16</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2020/08/t2m2115.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/11/t2m2116.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
@@ -190,9 +190,9 @@
 		<key>AppName</key>
 		<string>Mints</string>
 		<key>Version</key>
-		<string>1.0b9</string>
+		<string>1.0b10</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2020/10/mints10b9.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/11/mints10b10.zip</string>
 	</dict>
 </array>
 </plist>
