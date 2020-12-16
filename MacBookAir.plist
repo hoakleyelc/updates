@@ -46,33 +46,33 @@
 		<key>MacModel</key>
 		<string>MacBookAir6,1</string>
 		<key>EFIversion</key>
-		<string>122.0.0.0.0</string>
+		<string>429.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>122.0.0.0.0</string>
+		<string>429.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir6,2</string>
 		<key>EFIversion</key>
-		<string>122.0.0.0.0</string>
+		<string>429.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>122.0.0.0.0</string>
+		<string>429.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,1</string>
 		<key>EFIversion</key>
-		<string>195.0.0.0.0</string>
+		<string>425.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>195.0.0.0.0</string>
+		<string>425.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,2</string>
 		<key>EFIversion</key>
-		<string>195.0.0.0.0</string>
+		<string>425.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>195.0.0.0.0</string>
+		<string>425.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
