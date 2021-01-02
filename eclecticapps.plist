@@ -202,5 +202,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2020/12/cormorant11.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Stibium</string>
+		<key>Version</key>
+		<string>1.0b6</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/12/stibium10b5.zip</string>
+	</dict>
 </array>
 </plist>
