@@ -6,31 +6,31 @@
 		<key>MacModel</key>
 		<string>Macmini9,1</string>
 		<key>iBootversion</key>
-		<string>6723.61.3</string>
+		<string>6723.81.1</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir10,1</string>
 		<key>iBootversion</key>
-		<string>6723.61.3</string>
+		<string>6723.81.1</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro17,1</string>
 		<key>iBootversion</key>
-		<string>6723.61.3</string>
+		<string>6723.81.1</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>ADP3,2</string>
 		<key>iBootversion</key>
-		<string>6723.61.3</string>
+		<string>6723.81.1</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>other</string>
 		<key>iBootversion</key>
-		<string>6723.61.3</string>
+		<string>6723.81.1</string>
 	</dict>
 </array>
 </plist>
