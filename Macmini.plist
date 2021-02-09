@@ -42,25 +42,25 @@
 		<key>MacModel</key>
 		<string>Macmini6,1</string>
 		<key>EFIversion</key>
-		<string>286.0.0.0.0</string>
+		<string>421.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>286.0.0.0.0</string>
+		<string>421.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini6,2</string>
 		<key>EFIversion</key>
-		<string>286.0.0.0.0</string>
+		<string>421.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>286.0.0.0.0</string>
+		<string>421.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>Macmini7,1</string>
 		<key>EFIversion</key>
-		<string>428.0.0.0.0</string>
+		<string>430.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>428.0.0.0.0</string>
+		<string>430.0.0.0.0</string>
 	</dict>
 </array>
 </plist>
