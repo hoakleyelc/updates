@@ -146,97 +146,97 @@
 		<key>MacModel</key>
 		<string>MacBookPro11,1</string>
 		<key>EFIversion</key>
-		<string>430.0.0.0.0</string>
+		<string>431.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>430.0.0.0.0</string>
+		<string>431.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro11,2</string>
 		<key>EFIversion</key>
-		<string>430.0.0.0.0</string>
+		<string>431.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>430.0.0.0.0</string>
+		<string>431.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro11,3</string>
 		<key>EFIversion</key>
-		<string>430.0.0.0.0</string>
+		<string>431.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>430.0.0.0.0</string>
+		<string>431.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro11,4</string>
 		<key>EFIversion</key>
-		<string>426.0.0.0.0</string>
+		<string>427.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>426.0.0.0.0</string>
+		<string>427.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro11,5</string>
 		<key>EFIversion</key>
-		<string>426.0.0.0.0</string>
+		<string>427.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>426.0.0.0.0</string>
+		<string>427.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro12,1</string>
 		<key>EFIversion</key>
-		<string>426.0.0.0.0</string>
+		<string>427.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>426.0.0.0.0</string>
+		<string>427.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro13,1</string>
 		<key>EFIversion</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro13,2</string>
 		<key>EFIversion</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro13,3</string>
 		<key>EFIversion</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro14,1</string>
 		<key>EFIversion</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro14,2</string>
 		<key>EFIversion</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro14,3</string>
 		<key>EFIversion</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.80.1.0.0</string>
+		<string>429.100.7.0.0</string>
 	</dict>
 </array>
 </plist>
