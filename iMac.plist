@@ -114,49 +114,49 @@
 		<key>MacModel</key>
 		<string>iMac17,1</string>
 		<key>EFIversion</key>
-		<string>429.100.7.0.0</string>
+		<string>429.120.4.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.100.7.0.0</string>
+		<string>429.120.4.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,1</string>
 		<key>EFIversion</key>
-		<string>429.100.7.0.0</string>
+		<string>429.120.4.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.100.7.0.0</string>
+		<string>429.120.4.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,2</string>
 		<key>EFIversion</key>
-		<string>429.100.7.0.0</string>
+		<string>429.120.4.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.100.7.0.0</string>
+		<string>429.120.4.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac18,3</string>
 		<key>EFIversion</key>
-		<string>429.100.7.0.0</string>
+		<string>429.120.4.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.100.7.0.0</string>
+		<string>429.120.4.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac19,1</string>
 		<key>EFIversion</key>
-		<string>1554.100.64.0.0</string>
+		<string>1554.120.15.0.0</string>
 		<key>EFIversion15</key>
-		<string>1554.100.64.0.0</string>
+		<string>1554.120.15.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac19,2</string>
 		<key>EFIversion</key>
-		<string>1554.100.64.0.0</string>
+		<string>1554.120.15.0.0</string>
 		<key>EFIversion15</key>
-		<string>1554.100.64.0.0</string>
+		<string>1554.120.15.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
