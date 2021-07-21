@@ -26,13 +26,13 @@
 		<key>MacModel</key>
 		<string>MacPro7,1</string>
 		<key>EFIversion</key>
-		<string>1554.100.64.0.0</string>
+		<string>1554.140.20.0.0</string>
 		<key>iBridge</key>
-		<string>18.16.14556.0.0</string>
+		<string>18.16.14759.0.1</string>
 		<key>EFIversion15</key>
-		<string>1554.100.64.0.0</string>
+		<string>1554.140.20.0.0</string>
 		<key>iBridge15</key>
-		<string>18.16.14556.0.0</string>
+		<string>18.16.14759.0.1</string>
 	</dict>
 </array>
 </plist>
