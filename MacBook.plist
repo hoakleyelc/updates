@@ -18,25 +18,25 @@
 		<key>MacModel</key>
 		<string>MacBook8,1</string>
 		<key>EFIversion</key>
-		<string>427.0.0.0.0</string>
+		<string>427.140.8.0.0</string>
 		<key>EFIversion15</key>
-		<string>427.0.0.0.0</string>
+		<string>427.140.8.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBook9,1</string>
 		<key>EFIversion</key>
-		<string>429.120.4.0.0</string>
+		<string>429.140.8.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.120.4.0.0</string>
+		<string>429.140.8.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBook10,1</string>
 		<key>EFIversion</key>
-		<string>429.120.4.0.0</string>
+		<string>429.140.8.0.0</string>
 		<key>EFIversion15</key>
-		<string>429.120.4.0.0</string>
+		<string>429.140.8.0.0</string>
 	</dict>
 </array>
 </plist>
