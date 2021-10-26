@@ -6,37 +6,55 @@
 		<key>MacModel</key>
 		<string>Macmini9,1</string>
 		<key>iBootversion</key>
-		<string>6723.140.2</string>
+		<string>7429.41.5</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir10,1</string>
 		<key>iBootversion</key>
-		<string>6723.140.2</string>
+		<string>7429.41.5</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro17,1</string>
 		<key>iBootversion</key>
-		<string>6723.140.2</string>
+		<string>7429.41.5</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBookPro18,1</string>
+		<key>iBootversion</key>
+		<string>7429.41.5</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBookPro18,2</string>
+		<key>iBootversion</key>
+		<string>7429.41.5</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>MacBookPro18,3</string>
+		<key>iBootversion</key>
+		<string>7429.41.5</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac21,1</string>
 		<key>iBootversion</key>
-		<string>6723.140.2</string>
+		<string>7429.41.5</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac21,2</string>
 		<key>iBootversion</key>
-		<string>6723.140.2</string>
+		<string>7429.41.5</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>other</string>
 		<key>iBootversion</key>
-		<string>6723.140.2</string>
+		<string>7429.41.5</string>
 	</dict>
 </array>
 </plist>
