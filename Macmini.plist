@@ -6,13 +6,13 @@
 		<key>MacModel</key>
 		<string>Macmini8,1</string>
 		<key>EFIversion</key>
-		<string>1715.40.15.0.0</string>
+		<string>1715.60.5.0.0</string>
 		<key>iBridge</key>
-		<string>19.16.10548.0.0</string>
+		<string>19.16.10647.0.0</string>
 		<key>EFIversion15</key>
-		<string>1715.40.15.0.0</string>
+		<string>1715.60.5.0.0</string>
 		<key>iBridge15</key>
-		<string>19.16.10548.0.0</string>
+		<string>19.16.10647.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
