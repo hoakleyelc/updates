@@ -30,49 +30,49 @@
 		<key>MacModel</key>
 		<string>MacBookAir5,1</string>
 		<key>EFIversion</key>
-		<string>424.0.0.0.0</string>
+		<string>425.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>424.0.0.0.0</string>
+		<string>425.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir5,2</string>
 		<key>EFIversion</key>
-		<string>424.0.0.0.0</string>
+		<string>425.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>424.0.0.0.0</string>
+		<string>425.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir6,1</string>
 		<key>EFIversion</key>
-		<string>432.40.8.0.1</string>
+		<string>432.60.3.0.0</string>
 		<key>EFIversion15</key>
-		<string>432.40.8.0.1</string>
+		<string>432.60.3.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir6,2</string>
 		<key>EFIversion</key>
-		<string>432.40.8.0.1</string>
+		<string>432.60.3.0.0</string>
 		<key>EFIversion15</key>
-		<string>432.40.8.0.1</string>
+		<string>432.60.3.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,1</string>
 		<key>EFIversion</key>
-		<string>428.40.10.0.0</string>
+		<string>428.60.3.0.0</string>
 		<key>EFIversion15</key>
-		<string>428.40.10.0.0</string>
+		<string>428.60.3.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookAir7,2</string>
 		<key>EFIversion</key>
-		<string>428.40.10.0.0</string>
+		<string>428.60.3.0.0</string>
 		<key>EFIversion15</key>
-		<string>428.40.10.0.0</string>
+		<string>428.60.3.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
