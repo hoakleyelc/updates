@@ -210,5 +210,13 @@
 		<key>URL</key>
 		<string>https://eclecticlightdotcom.files.wordpress.com/2021/01/stibium10.zip</string>
 	</dict>
+	<dict>
+		<key>AppName</key>
+		<string>Bailiff</string>
+		<key>Version</key>
+		<string>1.5</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2020/08/bailiff15.zip</string>
+	</dict>
 </array>
 </plist>
