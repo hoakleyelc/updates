@@ -52,6 +52,18 @@
 	</dict>
 	<dict>
 		<key>MacModel</key>
+		<string>Mac13,1</string>
+		<key>iBootversion</key>
+		<string>7429.81.3</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Mac13,2</string>
+		<key>iBootversion</key>
+		<string>7429.81.3</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
 		<string>other</string>
 		<key>iBootversion</key>
 		<string>7429.81.3</string>
