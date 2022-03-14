@@ -146,41 +146,41 @@
 		<key>MacModel</key>
 		<string>iMac19,1</string>
 		<key>EFIversion</key>
-		<string>1715.80.5.0.0</string>
+		<string>1731.100.125.0.0</string>
 		<key>EFIversion15</key>
-		<string>1715.80.5.0.0</string>
+		<string>1731.100.125.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac19,2</string>
 		<key>EFIversion</key>
-		<string>1715.80.5.0.0</string>
+		<string>1731.100.125.0.0</string>
 		<key>EFIversion15</key>
-		<string>1715.80.5.0.0</string>
+		<string>1731.100.125.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac20,1</string>
 		<key>EFIversion</key>
-		<string>1715.81.2.0.0</string>
+		<string>1731.100.130.0.0</string>
 		<key>iBridge</key>
-		<string>19.16.10744.0.0</string>
+		<string>19.16.14242.0.0</string>
 		<key>EFIversion15</key>
-		<string>1715.81.2.0.0</string>
+		<string>1731.100.130.0.0</string>
 		<key>iBridge15</key>
-		<string>19.16.10744.0.0</string>
+		<string>19.16.14242.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac20,2</string>
 		<key>EFIversion</key>
-		<string>1715.81.2.0.0</string>
+		<string>1731.100.130.0.0</string>
 		<key>iBridge</key>
-		<string>19.16.10744.0.0</string>
+		<string>19.16.14242.0.0</string>
 		<key>EFIversion15</key>
-		<string>1715.81.2.0.0</string>
+		<string>1731.100.130.0.0</string>
 		<key>iBridge15</key>
-		<string>19.16.10744.0.0</string>
+		<string>19.16.14242.0.0</string>
 	</dict>
 </array>
 </plist>
