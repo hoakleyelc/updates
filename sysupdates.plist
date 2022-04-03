@@ -38,5 +38,7 @@
 	<string>12.5.0</string>
 	<key>KEXT11</key>
 	<string>11.6.1</string>
+	<key>StudioDisplay</key>
+	<string>15.4</string>
 </dict>
 </plist>
