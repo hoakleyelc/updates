@@ -64,6 +64,30 @@
 	</dict>
 	<dict>
 		<key>MacModel</key>
+		<string>Mac14,1</string>
+		<key>iBootversion</key>
+		<string>7459.121.3</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Mac14,2</string>
+		<key>iBootversion</key>
+		<string>7459.121.3</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Mac14,6</string>
+		<key>iBootversion</key>
+		<string>7459.121.3</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Mac14,7</string>
+		<key>iBootversion</key>
+		<string>7459.121.3</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
 		<string>other</string>
 		<key>iBootversion</key>
 		<string>7459.121.3</string>
