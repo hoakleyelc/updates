@@ -58,9 +58,9 @@
 		<key>MacModel</key>
 		<string>Macmini7,1</string>
 		<key>EFIversion</key>
-		<string>433.120.6.0.0</string>
+		<string>433.140.2.0.0</string>
 		<key>EFIversion15</key>
-		<string>433.120.6.0.0</string>
+		<string>433.140.2.0.0</string>
 	</dict>
 </array>
 </plist>
