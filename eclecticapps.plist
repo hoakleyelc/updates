@@ -140,6 +140,14 @@
 	</dict>
 	<dict>
 		<key>AppName</key>
+		<string>SilentKnight2</string>
+		<key>Version</key>
+		<string>2.0</string>
+		<key>URL</key>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2022/06/silentknight121.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
 		<string>Taccy</string>
 		<key>Version</key>
 		<string>1.14</string>
