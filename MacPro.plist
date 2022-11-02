@@ -18,21 +18,21 @@
 		<key>MacModel</key>
 		<string>MacPro6,1</string>
 		<key>EFIversion</key>
-		<string>430.140.2.0.0</string>
+		<string>470.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>430.140.2.0.0</string>
+		<string>470.0.0.0.0</string>
 	</dict>
  	<dict>
 		<key>MacModel</key>
 		<string>MacPro7,1</string>
 		<key>EFIversion</key>
-		<string>1731.140.2.0.0</string>
+		<string>1916.40.8.0.0</string>
 		<key>iBridge</key>
-		<string>19.16.16067.0.0</string>
+		<string>20.16.411.0.0</string>
 		<key>EFIversion15</key>
-		<string>1731.140.2.0.0</string>
+		<string>1916.40.8.0.0</string>
 		<key>iBridge15</key>
-		<string>19.16.16067.0.0</string>
+		<string>20.16.411.0.0</string>
 	</dict>
 </array>
 </plist>
