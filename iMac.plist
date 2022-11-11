@@ -164,11 +164,11 @@
 		<key>EFIversion</key>
 		<string>1916.40.8.0.0</string>
 		<key>iBridge</key>
-		<string>20.16.411.0.0</string>
+		<string>20.16.420.0.0</string>
 		<key>EFIversion15</key>
 		<string>1916.40.8.0.0</string>
 		<key>iBridge15</key>
-		<string>20.16.411.0.0</string>
+		<string>20.16.420.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
@@ -176,11 +176,11 @@
 		<key>EFIversion</key>
 		<string>1916.40.8.0.0</string>
 		<key>iBridge</key>
-		<string>20.16.411.0.0</string>
+		<string>20.16.420.0.0</string>
 		<key>EFIversion15</key>
 		<string>1916.40.8.0.0</string>
 		<key>iBridge15</key>
-		<string>20.16.411.0.0</string>
+		<string>20.16.420.0.0</string>
 	</dict>
 </array>
 </plist>
