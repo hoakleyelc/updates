@@ -142,9 +142,9 @@
 		<key>AppName</key>
 		<string>SilentKnight2</string>
 		<key>Version</key>
-		<string>2.4</string>
+		<string>2.5</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2023/03/silentknight204.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2023/04/silentknight205.zip</string>
 	</dict>
 	<dict>
 		<key>AppName</key>
@@ -222,9 +222,9 @@
 		<key>AppName</key>
 		<string>XProCheck</string>
 		<key>Version</key>
-		<string>1.4</string>
+		<string>1.5</string>
 		<key>URL</key>
-		<string>https://eclecticlightdotcom.files.wordpress.com/2023/03/xprocheck14.zip</string>
+		<string>https://eclecticlightdotcom.files.wordpress.com/2023/04/xprocheck15.zip</string>
 	</dict>
 </array>
 </plist>
