@@ -34,9 +34,9 @@
 		<key>MacModel</key>
 		<string>MacBook10,1</string>
 		<key>EFIversion</key>
-		<string>512.0.0.0.0</string>
+		<string>515.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>512.0.0.0.0</string>
+		<string>515.0.0.0.0</string>
 	</dict>
 </array>
 </plist>
