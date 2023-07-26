@@ -106,6 +106,12 @@
 	</dict>
 	<dict>
 		<key>MacModel</key>
+		<string>Mac14,8</string>
+		<key>iBootversion</key>
+		<string>8422.141.2</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
 		<string>Mac14,9</string>
 		<key>iBootversion</key>
 		<string>8422.141.2</string>
@@ -119,6 +125,24 @@
 	<dict>
 		<key>MacModel</key>
 		<string>Mac14,12</string>
+		<key>iBootversion</key>
+		<string>8422.141.2</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Mac14,13</string>
+		<key>iBootversion</key>
+		<string>8422.141.2</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Mac14,14</string>
+		<key>iBootversion</key>
+		<string>8422.141.2</string>
+	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Mac14,15</string>
 		<key>iBootversion</key>
 		<string>8422.141.2</string>
 	</dict>
