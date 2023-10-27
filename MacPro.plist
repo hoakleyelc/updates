@@ -18,21 +18,21 @@
 		<key>MacModel</key>
 		<string>MacPro6,1</string>
 		<key>EFIversion</key>
-		<string>474.0.0.0.0</string>
+		<string>478.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>474.0.0.0.0</string>
+		<string>478.0.0.0.0</string>
 	</dict>
  	<dict>
 		<key>MacModel</key>
 		<string>MacPro7,1</string>
 		<key>EFIversion</key>
-		<string>2020.0.1.0.0</string>
+		<string>2020.41.1.0.0</string>
 		<key>iBridge</key>
-		<string>21.16.365.0.0</string>
+		<string>21.16.1069.0.0</string>
 		<key>EFIversion15</key>
-		<string>2020.0.1.0.0</string>
+		<string>2020.41.1.0.0</string>
 		<key>iBridge15</key>
-		<string>21.16.365.0.0</string>
+		<string>21.16.1069.0.0</string>
 	</dict>
 </array>
 </plist>
