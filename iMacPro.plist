@@ -6,13 +6,13 @@
 		<key>MacModel</key>
 		<string>iMacPro1,1</string>
 		<key>EFIversion</key>
-		<string>2020.41.1.0.0</string>
+		<string>2020.61.1.0.0</string>
 		<key>iBridge</key>
-		<string>21.16.1069.0.0</string>
+		<string>21.16.2057.0.0</string>
 		<key>EFIversion15</key>
-		<string>2020.41.1.0.0</string>
+		<string>2020.61.1.0.0</string>
 		<key>iBridge15</key>
-		<string>21.16.1069.0.0</string>
+		<string>21.16.2057.0.0</string>
 	</dict>
 </array>
 </plist>
