@@ -6,5 +6,15 @@
 	<string>2181</string>
 	<key>XPremed</key>
 	<string>123</string>
+	<key>skint</key>
+	<string>1</string>
+	<key>macOS14</key>
+	<string>3.0</string>
+	<key>macOS13</key>
+	<string>6.4</string>
+	<key>macOS12</key>
+	<string>7.3</string>
+	<key>RSR</key>
+	<string>0</string>
 </dict>
 </plist>
