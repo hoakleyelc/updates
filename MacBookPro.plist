@@ -6,73 +6,73 @@
 		<key>MacModel</key>
 		<string>MacBookPro15,1</string>
 		<key>EFIversion</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 		<key>EFIversion15</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge15</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro15,2</string>
 		<key>EFIversion</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 		<key>EFIversion15</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge15</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro15,3</string>
 		<key>EFIversion</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 		<key>EFIversion15</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge15</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro15,4</string>
 		<key>EFIversion</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 		<key>EFIversion15</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge15</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro16,1</string>
 		<key>EFIversion</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 		<key>EFIversion15</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge15</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro16,2</string>
 		<key>EFIversion</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 		<key>EFIversion15</key>
-		<string>2020.61.1.0.0</string>
+		<string>2020.80.5.0.1</string>
 		<key>iBridge15</key>
-		<string>21.16.2057.0.0</string>
+		<string>21.16.3049.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
@@ -170,73 +170,73 @@
 		<key>MacModel</key>
 		<string>MacBookPro11,4</string>
 		<key>EFIversion</key>
-		<string>486.0.0.0.0</string>
+		<string>489.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>486.0.0.0.0</string>
+		<string>489.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro11,5</string>
 		<key>EFIversion</key>
-		<string>486.0.0.0.0</string>
+		<string>489.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>486.0.0.0.0</string>
+		<string>489.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro12,1</string>
 		<key>EFIversion</key>
-		<string>486.0.0.0.0</string>
+		<string>489.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>486.0.0.0.0</string>
+		<string>489.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro13,1</string>
 		<key>EFIversion</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro13,2</string>
 		<key>EFIversion</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro13,3</string>
 		<key>EFIversion</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro14,1</string>
 		<key>EFIversion</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro14,2</string>
 		<key>EFIversion</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>MacBookPro14,3</string>
 		<key>EFIversion</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 		<key>EFIversion15</key>
-		<string>522.0.0.0.0</string>
+		<string>526.0.0.0.0</string>
 	</dict>
 </array>
 </plist>
