@@ -8,6 +8,8 @@
 	<string>133</string>
 	<key>skint</key>
 	<string>1.05</string>
+	<key>macOS15</key>
+	<string>0.0</string>
 	<key>macOS14</key>
 	<string>5.0</string>
 	<key>macOS13</key>
