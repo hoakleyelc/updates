@@ -205,6 +205,12 @@
 		<string>Mac15,12</string>
 		<key>iBootversion</key>
 		<string>10151.140.19</string>
+  </dict>
+	<dict>
+		<key>MacModel</key>
+		<string>Mac15,13</string>
+		<key>iBootversion</key>
+		<string>10151.140.19</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>

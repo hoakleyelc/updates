@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>XProtect</key>
-	<string>5270</string>
+	<string>5271</string>
+	<key>XProtectSeq</key>
+	<string>5271</string>
 	<key>XPremed</key>
-	<string>140</string>
+	<string>141</string>
 	<key>skint</key>
-	<string>1.07</string>
+	<string>1.08</string>
 	<key>macOS15</key>
 	<string>0.0</string>
 	<key>macOS14</key>
-	<string>6.0</string>
+	<string>6.1</string>
 	<key>macOS13</key>
-	<string>6.8</string>
+	<string>6.9</string>
 	<key>macOS12</key>
 	<string>7.6</string>
 	<key>RSR</key>
 	<string>0</string>
 	<key>URL</key>
-	<string>https://eclecticlight.co/wp-content/uploads/2024/06/skint107.zip</string>
+	<string>https://eclecticlight.co/wp-content/uploads/2024/08/skint108.zip</string>
 </dict>
 </plist>
