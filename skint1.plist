@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>XProtect</key>
-	<string>5273</string>
+	<string>5272</string>
 	<key>XProtectSeq</key>
 	<string>5273</string>
 	<key>XPremed</key>
@@ -13,9 +13,9 @@
 	<key>macOS15</key>
 	<string>0.0</string>
 	<key>macOS14</key>
-	<string>6.1</string>
+	<string>7.0</string>
 	<key>macOS13</key>
-	<string>6.9</string>
+	<string>7.0</string>
 	<key>macOS12</key>
 	<string>7.6</string>
 	<key>RSR</key>
