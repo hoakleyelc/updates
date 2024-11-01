@@ -162,25 +162,25 @@
 		<key>MacModel</key>
 		<string>iMac20,1</string>
 		<key>EFIversion</key>
-		<string>2069.0.0.0.0</string>
+		<string>2069.40.2.0.0</string>
 		<key>iBridge</key>
-		<string>22.16.10353.0.0</string>
+		<string>22.16.11072.0.0</string>
 		<key>EFIversion15</key>
-		<string>2069.0.0.0.0</string>
+		<string>2069.40.2.0.0</string>
 		<key>iBridge15</key>
-		<string>22.16.10353.0.0</string>
+		<string>22.16.11072.0.0</string>
 	</dict>
 	<dict>
 		<key>MacModel</key>
 		<string>iMac20,2</string>
 		<key>EFIversion</key>
-		<string>2069.0.0.0.0</string>
+		<string>2069.40.2.0.0</string>
 		<key>iBridge</key>
-		<string>22.16.10353.0.0</string>
+		<string>22.16.11072.0.0</string>
 		<key>EFIversion15</key>
-		<string>2069.0.0.0.0</string>
+		<string>2069.40.2.0.0</string>
 		<key>iBridge15</key>
-		<string>22.16.10353.0.0</string>
+		<string>22.16.11072.0.0</string>
 	</dict>
 </array>
 </plist>
