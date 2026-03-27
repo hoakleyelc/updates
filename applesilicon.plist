@@ -206,5 +206,11 @@
 		<key>iBootversion</key>
 		<string>13822.81.10</string>
 	</dict>
+	<dict>
+		<key>MacModel</key>
+		<string>mBoot1</string>
+		<key>iBootversion</key>
+		<string>18000.101.7</string>
+	</dict>
 </array>
 </plist>
