@@ -156,6 +156,14 @@
 	</dict>
 	<dict>
 		<key>AppName</key>
+		<string>SilentKnight3</string>
+		<key>Version</key>
+		<string>3.01</string>
+		<key>URL</key>
+		<string>https://eclecticlight.co/wp-content/uploads/2026/06/sk301.zip</string>
+	</dict>
+	<dict>
+		<key>AppName</key>
 		<string>Taccy</string>
 		<key>Version</key>
 		<string>1.15</string>
