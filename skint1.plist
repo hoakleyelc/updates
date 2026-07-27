@@ -13,11 +13,11 @@
 	<key>macOS27</key>
 	<string>0.0</string>
 	<key>macOS26</key>
-	<string>5.2</string>
+	<string>6.0</string>
 	<key>macOS15</key>
-	<string>7.7</string>
+	<string>7.8</string>
 	<key>macOS14</key>
-	<string>8.7</string>
+	<string>8.8</string>
 	<key>macOS13</key>
 	<string>7.8</string>
 	<key>macOS12</key>
@@ -27,6 +27,6 @@
 	<key>URL</key>
 	<string>https://eclecticlight.co/wp-content/uploads/2025/09/skint109.zip</string>
 	<key>mBoot1</key>
-	<string>18000.120.36</string>
+	<string>18000.161.9</string>
 </dict>
 </plist>
